@@ -1,0 +1,5 @@
+#Ignorer tous les fichiers d'archive tar.gz
+*.tar.gz
+
+#Ignorer le dossier de sauvegared s'il exite
+backup/
